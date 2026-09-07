@@ -1,0 +1,35 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+
+.env
+
+# IDE Settings
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
+
+# Generated Reports
+
+BUG_HUNTER_PRO_report.json
+BUG_HUNTER_PRO_report.html
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
